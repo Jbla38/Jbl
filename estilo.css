@@ -1,0 +1,57 @@
+* {
+   box-sizing: border-box; 
+}
+
+body { 
+
+margin:50px;
+}
+
+
+h1 {
+
+font-size: 40px;
+color: white;
+background-color: brown;
+padding: 20px 0;
+text-align: center;
+
+}
+
+label, input, button{
+  color: black;
+  height: 50px;
+  position: relative;
+  font-size:17px;
+  display:block;
+  pading: 20px;
+  
+  
+  
+}
+
+button {
+color:white;
+background-color:brown;
+
+}
+ 
+img {
+width:600px;
+height:600px;
+position: absolute;
+left:30%;
+top:15%;
+
+
+
+}
+
+
+
+
+
+
+
+
+
